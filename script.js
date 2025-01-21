@@ -1,6 +1,6 @@
 function opengame() {
 	var win = window.open()   
-	var url = "https://putnamcityschools.github.io/mathpunch.github.io/" 
+	var url = "https://putnamcityschools.github.io/mathpunchgithub.io/" 
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%";
 	iframe.style.height = "100%";
