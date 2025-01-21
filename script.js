@@ -1,6 +1,6 @@
 function opengame() {
 	var win = window.open()   
-	var url = "https://mathpunch.github.io/" 
+	var url = "https://mathpunch.github.io" 
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%";
 	iframe.style.height = "100%";
